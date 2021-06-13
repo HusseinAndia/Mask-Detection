@@ -1,6 +1,7 @@
 # Mask-Detection
 
 Due to COVID-19 Pandemic, it's important to wear a face mask as COVID-19 spreads mainly from person to person through respiratory droplets. Respiratory droplets travel into the air when you cough, sneeze, talk or shout. Here comes the importance of our deep learning model to detect if person wearing a mask or not.
+
 ![](test.gif)
 
 ## Data
